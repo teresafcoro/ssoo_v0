@@ -1,0 +1,8 @@
+// Guarda sucesivamente valores enteros pares comprendidos entre el 21 y el 43 en la
+// celda de memoria de la posición 122.
+40
+MEMADD 22 122
+INC 2
+ZJUMP 2 44
+JUMP -3
+HALT
